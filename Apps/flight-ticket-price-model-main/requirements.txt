@@ -1,0 +1,11 @@
+beautifulsoup4
+matplotlib
+matplotlib-inline
+matplotlib-venn
+numpy
+numpy-financial
+pandas
+plotly
+requests
+scikit-learn
+seaborn
